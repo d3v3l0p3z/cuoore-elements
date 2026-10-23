@@ -5,7 +5,7 @@
 Native custom elements independently deployable ready to browser consume
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Issues](https://img.shields.io/github/issues/javierlopezdeancos/cuoore-elements?style=flat-square)](https://github.com/javierlopezdeancos/cuoore-elements/issues)
+[![Issues](https://img.shields.io/github/issues/d3v3l0p3z/cuoore-elements?style=flat-square)](https://github.com/d3v3l0p3z/cuoore-elements/issues)
 [![Stage - Alpha](https://img.shields.io/badge/Stage-Alpha-f9f504)](https://)
 ![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
 
